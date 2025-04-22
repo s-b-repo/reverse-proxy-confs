@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_small.png)
 
-# How to use these Reverse Proxy Configs
+# THX for inpiration
 
 This folder contains sample reverse proxy configs for various docker images linuxserver provides and other commonly used applications.
 
